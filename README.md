@@ -13,7 +13,7 @@ A modern payment UI built with **React.js** and **Tailwind CSS**.
 - Tailwind CSS
 
 ## 🌐 Demo
-🔗 [Hali yo'q)
+🔗 [nurpay.netlify.app](https://nurpay.netlify.app)
 
 ## 📸 Screenshots
 <img width="1268" alt="Screenshot 2025-06-28 at 14 53 27" src="https://github.com/user-attachments/assets/1f754a39-ae58-4087-a6a0-2be6a633386d" />
